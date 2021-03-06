@@ -1,2 +1,2 @@
-# coursera-test
+# html-test
 test repository
